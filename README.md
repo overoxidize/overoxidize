@@ -6,11 +6,6 @@ I got my start in my spare time, circa 2017, after realizing that I could transf
 
 Currently I'm participating in the Summer 1 batch of @recursecenter.
 
-Current projects: 
-
-- [Rustirc](https://github.com/overoxidize/rustirc), an IRC implementation written in, you guessed it, Rust.
-
-
 <!--
 **overoxidize/overoxidize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
