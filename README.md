@@ -13,7 +13,8 @@ Currently I'm participating in the Summer 1 batch of @recursecenter.
 Current WIP projects: 
 
 - [Rustirc](https://github.com/overoxidize/rustirc), an IRC implementation written in, you guessed it, Rust.
-- [chemicli](https://github.com/overoxidize/chemicli/builder-api)
+- [chemicli](https://github.com/overoxidize/chemicli/builder-api), a command line app for querying the periodic table of elements.
+- [patina](https://github.com/overoxidize/patina), an API for a cryptocurrency and currency exchange aggregator.
 
 
 <!--
