@@ -10,10 +10,10 @@ Shortly thereafter, out of a newfound passion for the fields, I began publicly s
 
 Currently I'm participating in the Summer 1 batch of @recursecenter.
 
-Current projects: 
+Current WIP projects: 
 
 - [Rustirc](https://github.com/overoxidize/rustirc), an IRC implementation written in, you guessed it, Rust.
-- [dnsr]
+- [chemicli](https://github.com/overoxidize/chemicli/builder-api)
 
 
 <!--
