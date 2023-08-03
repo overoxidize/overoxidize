@@ -2,7 +2,7 @@
 
 I'm Lorenzo, and below you'll find a bit more about me, and my journey as a software engineer.
 
-I got my start in my spare time, circa 2017, after realizing that I could transfer my understanding of computers from audio-engineering, into other technical fields. I spent a little over a year, self learning, and realized that I needed structure and guidance, which I received at Lambda. Having completed the course, I've grown the horizons of my learning massively, branching out into Functional & Systems programming, Mathematics & Physics.
+I got my start in my spare time, circa 2017, after realizing that I could transfer my understanding of computers from audio-engineering, into other technical fields. I spent a little over a year, self learning, and realized that I needed structure and guidance, which I received at Lambda. Having completed the course, I've grown the horizons of my learning massively, branching out in the direction of Functional & Systems programming, as well as Mathematics & Physics.
 
 Currently I'm participating in the Summer 1 batch of @recursecenter.
 
