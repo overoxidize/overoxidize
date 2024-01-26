@@ -1,10 +1,4 @@
-### Rustacean, Founder, Autodidact. 👋
-
-I'm Lorenzo, and below you'll find a bit more about me, and my journey as a software engineer.
-
-I got my start in my spare time, circa 2017, after realizing that I could transfer my understanding of computers from audio-engineering, into other technical fields. I spent a little over a year, self learning, and realized that I needed structure and guidance, which I received at Lambda. Having completed the course, I've grown the horizons of my learning massively, branching out in the direction of Functional & Systems programming, as well as Mathematics & Physics.
-
-Currently I'm participating in the Summer 1 batch of @recursecenter.
+Hey! I'm Lorenzo, a programmer with a penchant for for tackling complex technical challenges. I thrive on diving into the intricate details of systems, networks, API's and the like. Beyond that, I'm quite fond of mathematics, physics, and digital signal processing.
 
 <!--
 **overoxidize/overoxidize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
